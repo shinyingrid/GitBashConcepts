@@ -6,6 +6,7 @@ public class SampleGitBash1 {
 	{
 		System.out.println("Gitbash Sample Program");
 		// changes made in GITHUB repo
+		//changes made in Eclipse project
 
 	}
 
