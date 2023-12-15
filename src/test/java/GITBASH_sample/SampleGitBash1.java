@@ -8,7 +8,7 @@ public class SampleGitBash1 {
 		//Newly made change in Eclipse
 		//Newly made change in github
 		//Second change made in Eclipse
-
+		//Second change made in Github
 	}
 
 }
