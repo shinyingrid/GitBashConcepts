@@ -10,6 +10,7 @@ public class SampleGitBash1 {
 		//Second change made in Eclipse
 		//Second change made in Github
 		//Third change made in Eclipse
+		//Third change made in Github
 	}
 
 }
